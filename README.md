@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @destiwindalstr
 - 👀 I’m interested in data analyst
-- 🌱 I’m currently learning Tableau
+- 🌱 I’m currently learning SQL, R, Python, and Tableau
 - 📫 How to reach me : destiwindalstr@gmail.com
 
 <!---
